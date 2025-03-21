@@ -1,1 +1,1 @@
-# image-quadrant-compression
+# LibEntropy
